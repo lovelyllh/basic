@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Algorithms.iml" filepath="$PROJECT_DIR$/Algorithms/Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Data Structure/Data Structure.iml" filepath="$PROJECT_DIR$/Data Structure/Data Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithms/Searching/Searching.iml" filepath="$PROJECT_DIR$/Algorithms/Searching/Searching.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithms/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Algorithms/Sorting/Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic.iml" filepath="$PROJECT_DIR$/basic.iml" />
     </modules>
